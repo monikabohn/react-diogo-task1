@@ -1,0 +1,23 @@
+.contactDetails {
+  margin-left: 220px;
+  border-left: 2px solid #fff;
+}
+
+.contactDetails img {
+  margin: 20px;
+  border-radius: 4px;
+  background: #fff;
+  display: block;
+}
+
+.contactDetails .contactInfo {
+  margin: 20px;
+}
+.contactDetails span {
+  display: block;
+}
+
+.contactDetails .name {
+  font-weight: 700;
+  font-size: 22px;
+}

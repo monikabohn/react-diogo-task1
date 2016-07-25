@@ -1,0 +1,32 @@
+.contactList {
+  float: left;
+  width: 200px;
+}
+
+.contactList input {
+  margin: 10px 0 0;
+  display: inline-block;
+}
+
+.contactList .list {
+  margin: 20px 0 0;
+}
+
+.contactList ul,
+.contactList ul li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.contactList ul li {
+  margin: 0 0 5px;
+}
+
+.contactList ul li a {
+  color: #fff;
+}
+
+.contactList ul li a:hover {
+  text-decoration: none;
+}
